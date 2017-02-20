@@ -8,7 +8,13 @@ using namespace std;
 typedef struct zombie Zombie;
 typedef struct sun Sun;
 typedef struct plant Plant;
+typedef struct produce_time Time;
 
+struct produce_time{
+    int second;
+    int minute;
+    int hour;
+};
 struct zombie
 {
     int lives;
@@ -24,7 +30,7 @@ struct plant
 {
     string name;
     string image_name;
-    int time;
+    Time* produce_time;
     int lives;
     int x;
     int y;
@@ -32,8 +38,16 @@ struct plant
  void draw_plants(window& win,vector<Plant*> plants){
     for (int i = 0; i < plants.size(); ++i)
     {
-        cout<< plants[i]->x<<' '<<plants[i]->y<<endl;
+        
         win.draw_png(string(plants[i]->image_name),plants[i]->x,plants[i]->y,60,60,0);    
+    }
+    
+ }
+ void draw_suns(window& win,vector<Sun*> suns){
+    for (int i = 0; i < suns.size(); ++i)
+    {
+        
+        win.draw_png(string("Sun2.png"),suns[i]->x,suns[i]->y,60,60,0);    
     }
     
  }
@@ -47,13 +61,14 @@ struct plant
         }
     }
  }
- void change_nuts_states(vector<Plant*>& plants,bool is_zombie_alongside,int current_time){
+ void change_nuts_states(vector<Plant*>& plants,bool is_zombie_alongside,Time* current_time){
     for (int i = 0; i < plants.size(); ++i)
     {
         if(plants[i]->name=="nut"){
             if(is_zombie_alongside==true){
-                int time=(current_time)-(plants[i]->time);
-                plants[i].lives-=time;
+                int time_left=(current_time->second)-(plants[i]->produce_time->second);
+                plants[i]->lives-=time_left;
+                cout<<time_left<<endl;
             }
             if(plants[i]->lives<=48 && is_zombie_alongside==true){
                 plants[i]->image_name="./nut2.png";
@@ -68,9 +83,23 @@ struct plant
     }
     
  }
+ void change_sunflowers_states(vector<Plant*>& plants,vector<Sun*>& suns,bool is_zombie_alongside,Time* current_time){
+    for (int i = 0; i < plants.size(); ++i){
+        if(plants[i]->name=="sunflower"){
+            int time_left=(current_time->second)-(plants[i]->produce_time->second);
+            if(time_left==25){
+                Sun* new_sun=new Sun();
+                new_sun->x=plants[i]->x+10;
+                new_sun->y=plants[i]->y+10;
+                suns.push_back(new_sun);
+            }
+        }
+    }
+}    
 int main(void){
     srand(0);
     vector<Plant*> plants;
+    vector<Sun*> suns;
     window win(1024, 600);
     struct tm* current_time;
     int i = 0,j = 0;
@@ -79,6 +108,16 @@ int main(void){
     int sgn = 1;
     while(true){
         win.draw_bg(string("./frontyard.png"),0,0);
+        time_t tim2;
+        struct tm* second_time;
+        time(&tim2);
+        second_time=localtime(&tim2);
+        Time* correct_t=new Time();
+        correct_t->second=second_time->tm_sec;
+        correct_t->minute=second_time->tm_min;
+        correct_t->hour=second_time->tm_hour;
+        change_nuts_states(plants,true, correct_t);
+        change_sunflowers_states(plants,suns,true,correct_t);
         x += 5*sgn;
         if(x == 500)
             sgn = -1;
@@ -88,6 +127,7 @@ int main(void){
         //     win.draw_bmp(string("./image.bmp"), rand()%600, rand()%600, 30, 30);
         win.draw_rect(200-j,200-i,60,60,WHITE);
         draw_plants(win,plants);
+        draw_suns(win,suns);
         HANDLE({
             QUIT({return 0;})
             KEY_PRESS(w, {
@@ -113,8 +153,11 @@ int main(void){
                 time_t tim;
                 time(&tim);
                 current_time=localtime(&tim);
-                sunflower->time=current_time->tm_sec;
-                cout<< sunflower->time <<endl;
+                sunflower->produce_time=new Time();
+                (sunflower->produce_time)->second=current_time->tm_sec;
+                (sunflower->produce_time)->minute=current_time->tm_min;
+                (sunflower->produce_time)->hour=current_time->tm_hour;
+                cout<< (sunflower->produce_time)->second <<' '<<(sunflower->produce_time)->minute<<' '<<(sunflower->produce_time)->hour<<endl;
                 plants.push_back(sunflower);
                 continue;
             })
@@ -125,6 +168,13 @@ int main(void){
                 nut->name="nut";
                 nut->image_name="./nut1.png";
                 nut->lives=72;
+                time_t tim;
+                time(&tim);
+                current_time=localtime(&tim);
+                nut->produce_time=new Time();
+                (nut->produce_time)->second=current_time->tm_sec;
+                (nut->produce_time)->minute=current_time->tm_min;
+                (nut->produce_time)->hour=current_time->tm_hour;
                 plants.push_back(nut);
                 continue;
             })
