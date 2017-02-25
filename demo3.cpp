@@ -3,13 +3,17 @@
 #include <cstdlib>
 #include <vector>
 #include <ctime>
+#include <fstream>
+
 #define WINDOW_WIDTH 1024
 #define WINDOW_HEIGHT 600
 #define IMAGE_WIDTH 60
 #define IMAGE_HEIGHT 60
+#define ZOMBIE_SPEED 20
 
 
 using namespace std;
+
 typedef struct zombie Zombie;
 typedef struct sun Sun;
 typedef struct plant Plant;
@@ -46,6 +50,7 @@ struct plant
     string name;
     string image_name;
     Time* produce_time;
+    Time* collision_time;
     int lives;
     int x;
     int y;
@@ -123,13 +128,14 @@ struct plant
     return result;
  }
  void update_board(vector<vector<char> >& board,int x,int y,char new_character){
-    int i_index=(y-100)/100;
-    int j_index=(x-270)/80;
-    if(i_index<0){
-        i_index*=-1;
+    int i_index,j_index;
+    if((x-270)%80==0){
+        i_index=(y-100)/100;
+        j_index=(x-270)/80;
     }
-    if(j_index<0){
-        j_index*=-1;
+    else{
+        i_index=(y-100)/100;
+        j_index=((x-270)/80)+1;
     }
     cerr<<y<<' '<<x<<endl;
     cerr<<i_index<<' '<<j_index<<endl;
@@ -141,8 +147,9 @@ struct plant
         if(plants[i]->name=="nut"){
             bool is_zombie_alongside=plants[i]->is_zombie_alongside;
             if(is_zombie_alongside==true){
-                int time=time_left(current_time,plants[i]->produce_time);
+                int time=time_left(current_time,plants[i]->collision_time);
                 plants[i]->lives-=time;
+                plants[i]->collision_time=current_time;
                 
             }
             if(plants[i]->lives<=48 && is_zombie_alongside==true){
@@ -164,16 +171,18 @@ struct plant
         if(plants[i]->name=="sunflower"){
             bool is_zombie_alongside=plants[i]->is_zombie_alongside;
             int time=time_left(current_time,plants[i]->produce_time);
-            if(time==25){
+            if(time%25==0 && time!=0){
                 Sun* new_sun=new Sun();
                 new_sun->x=plants[i]->x;
                 new_sun->y=plants[i]->y;
+                new_sun->produce_time=current_time;
                 new_sun->is_related_to_sunflower=true;
                 suns.push_back(new_sun);
             }
             if(is_zombie_alongside==true){
-                int time=time_left(current_time,plants[i]->produce_time);
+                int time=time_left(current_time,plants[i]->collision_time);
                 plants[i]->lives-=time;
+                plants[i]->collision_time=current_time;
             }
             if (plants[i]->lives <= 0)
             {
@@ -214,7 +223,7 @@ void shoot_pea(vector<Plant*>& plants,vector<Zombie>& zombies,vector<Pea*>& peas
     {
         if(plants[i]->name=="pea_shooter"){
             if(plants[i]->seen_zombie==true){
-                int time=time_left(current_time,plants[i]->produce_time);
+                /*int time=time_left(current_time,plants[i]->produce_time);*/
                 int zombie_index=find_neighbor_zombie(plants[i],zombies);
                 int shooter_x= plants[i]->x;
                 int zombie_x=zombies[zombie_index].x;
@@ -222,43 +231,51 @@ void shoot_pea(vector<Plant*>& plants,vector<Zombie>& zombies,vector<Pea*>& peas
                 int pea_index;
                 if (! find_pea(peas,shooter_y ,pea_index))
                 {
-                    //if(time==1){
-                    if(counter%1==0){
+                    
                         cout<<"find is false"<<endl;
                         Pea* new_pea=new Pea();
                         new_pea->x=shooter_x+30;
                         new_pea->y=shooter_y;
                         peas.push_back(new_pea);
-                        plants[i]->produce_time->second=current_time->second;
+                        /*plants[i]->produce_time->second=current_time->second;
                         plants[i]->produce_time->minute=current_time->minute;
                         plants[i]->produce_time->hour=current_time->hour;
+
                         new_pea->produce_time=current_time;
-                    }
+                        */
+                    
                        
                 }
                 if(find_pea(peas,shooter_y ,pea_index)){
-                    
-                    if (peas[pea_index]->x==zombie_x+30)
+                    zombie_index=find_neighbor_zombie(plants[i],zombies);
+                    zombie_x=zombies[zombie_index].x;
+                    cout<< zombie_x<<' '<<peas[pea_index]->x<<endl;
+                    if (peas[pea_index]->x == zombie_x+30)
                     {
                         cout<<"find is true"<<endl;
                         peas.erase(peas.begin()+pea_index);
-                        plants[i]->produce_time->second=current_time->second;
+                        plants[i]->seen_zombie=false;
+                        /*plants[i]->produce_time->second=current_time->second;
                         plants[i]->produce_time->minute=current_time->minute;
                         plants[i]->produce_time->hour=current_time->hour;
+                        */
                         if(zombie_index != -1){
                             zombies[zombie_index].lives-=1;
                         }
+                    }
+                    if(peas[pea_index]->x > 910){
+                        peas.erase(peas.begin()+pea_index);
                     }
                     
                 }
                 if(find_pea(peas,shooter_y ,pea_index))
                 {
-                    int time=time_left(current_time,peas[pea_index]->produce_time);
+                    //int time=time_left(current_time,peas[pea_index]->produce_time);
                     //if(time == 0){
-                    if(counter%1==0){
-                        peas[pea_index]->x+=16;
-                        peas[pea_index]->produce_time=current_time;
-                    }
+                    //if(counter%1==0){
+                        peas[pea_index]->x+=ZOMBIE_SPEED;
+                        //peas[pea_index]->produce_time=current_time;
+                    //}
                 }
             }
         }
@@ -269,10 +286,10 @@ void change_peashooter_states(vector<Plant*>& plants,Time* current_time,vector<v
     for (int i = 0; i < plants.size(); ++i){
         if(plants[i]->name=="pea_shooter"){
             bool is_zombie_alongside=plants[i]->is_zombie_alongside;
-            bool seen_zombie=plants[i]->seen_zombie;
             if(is_zombie_alongside==true){
-                int time=time_left(current_time,plants[i]->produce_time);
-                plants[i]->lives-=time;   
+                int time=time_left(current_time,plants[i]->collision_time);
+                plants[i]->lives-=time; 
+                plants[i]->collision_time=current_time;  
             }
             if (plants[i]->lives <= 0)
             {
@@ -338,11 +355,14 @@ bool seen_zombie(vector<Zombie>& zombies,Plant* plant){
     }
     return result;
 }
-void zombies_and_plants(vector<Zombie>& zombies,vector<Plant*>& plants){
+void zombies_and_plants(vector<Zombie>& zombies,vector<Plant*>& plants,Time* current_time){
     for (int i = 0; i < plants.size(); ++i)
     {
-        if(is_zombie_neighbor(zombies,plants[i])){
+        if(is_zombie_neighbor(zombies,plants[i]) && plants[i]->is_zombie_alongside!=true){
             plants[i]->is_zombie_alongside=true;
+            plants[i]->collision_time->second=current_time->second;
+            plants[i]->collision_time->minute=current_time->minute;
+            plants[i]->collision_time->hour=current_time->hour;
         
         }
         if(plants[i]->name=="pea_shooter"){
@@ -378,23 +398,92 @@ void move_zombies(vector<Zombie>& zombies,Time* current_time,vector<vector<char>
     {
     
         int time=time_left(current_time,zombies[i].produce_time);
-        if(time == 4){
+        if(time == 1){
             if(zombies[i].x >270){
-            int i_index=(zombies[i].y-100)/100;
-            int j_index=(zombies[i].x-270)/80;
-            cout<<i_index<<' '<<j_index<<endl;
-            if(board[i_index][j_index-1] != 'f' && board[i_index][j_index-1] != 'n' && board[i_index][j_index-1] != 'p'){
-            update_board(board,zombies[i].x,zombies[i].y,'.');
-            zombies[i].x-=80;
-            zombies[i].produce_time=current_time;
-            update_board(board,zombies[i].x,zombies[i].y,'z');
+                int i_index,j_index;
+                if((zombies[i].x-270)%80==0){
+                    i_index=(zombies[i].y-100)/100;
+                    j_index=(zombies[i].x-270)/80;
+                }
+                else{
+                    i_index=(zombies[i].y-100)/100;
+                    j_index=((zombies[i].x-270)/80)+1;
+
+                }
+                cout<<i_index<<' '<<j_index<<endl;
+                if(board[i_index][j_index-1] != 'f' && board[i_index][j_index-1] != 'n' && board[i_index][j_index-1] != 'p'){
+                    
+                    update_board(board,zombies[i].x,zombies[i].y,'.');
+                    zombies[i].x-=ZOMBIE_SPEED;
+                    zombies[i].produce_time->second=current_time->second;
+                    zombies[i].produce_time->minute=current_time->minute;
+                    zombies[i].produce_time->hour=current_time->hour;
+                    update_board(board,zombies[i].x,zombies[i].y,'z');
+                }
+                else{
+                    zombies[i].produce_time->second=current_time->second;
+                    zombies[i].produce_time->minute=current_time->minute;
+                    zombies[i].produce_time->hour=current_time->hour;
+                }
+            }
         }
+    }
+}
+void change_suns_state(vector<Sun*>& suns,Time* current_time,vector<vector<char> >& board){
+    for (int i = 0; i < suns.size(); ++i)
+    {
+        int time=time_left(current_time,suns[i]->produce_time);
+        if(time==5){
+            if(suns[i]->is_related_to_sunflower==false){
+                update_board(board,suns[i]->x,suns[i]->y,'.');
+            }
+            suns.erase(suns.begin()+i);
         }
+    }
+}
+bool loss_the_game(vector<vector<char> >& board){
+    bool result=false;
+    for (int i = 0; i < 5; ++i)
+    {
+        if(board[i][0]=='z'){
+            result=true;
+            break;
         }
+    }
+    return result;
+}
+void genarate_random_zombies(vector<Zombie>& zombies,vector<vector<char> >& board){
+    for (int i = 0; i < 10; ++i)
+    {
+        
+        srand(time(0));
+        int i_index=rand()%5;
+        int j_index=rand()%9;
+        if(board[i_index][j_index]=='.' && j_index!=0){
+            board[i_index][j_index]='z';
+            Zombie new_zombie;
+            
+            new_zombie.x=j_index*80+270;
+            new_zombie.y=i_index*100+100;
+            new_zombie.lives=10;
+            time_t tim2;
+            struct tm* second_time;
+            time(&tim2);
+            second_time=localtime(&tim2);
+            Time* correct_t=new Time();
+            correct_t->second=second_time->tm_sec;
+            correct_t->minute=second_time->tm_min;
+            correct_t->hour=second_time->tm_hour;
+            new_zombie.produce_time=correct_t;
+            zombies.push_back(new_zombie);
+            
+        }
+        
     }
 }
 int main(void){
     srand(0);
+    int waves=0;
     vector<vector<char> > board(5);
     vector<Plant*> plants;
     vector<Sun*> suns;
@@ -416,7 +505,7 @@ int main(void){
             board[i].push_back('.');
         }
     }
-    Zombie zombie;
+    /*Zombie zombie;
     zombie.x=910;
     zombie.y=200;
     zombie.lives=10;
@@ -431,6 +520,8 @@ int main(void){
     zombie.produce_time=correct_t;
     zombies.push_back(zombie);
     update_board(board,zombie.x,zombie.y,'z');
+    */
+    genarate_random_zombies(zombies,board);
     int counter=0;
     while(true){
         angle++;
@@ -444,16 +535,18 @@ int main(void){
         correct_t->minute=second_time->tm_min;
         correct_t->hour=second_time->tm_hour;
         generate_random_suns(suns,board);
-        zombies_and_plants(zombies,plants);
+        zombies_and_plants(zombies,plants,correct_t);
         change_nuts_states(plants, correct_t,board);
         change_sunflowers_states(plants,suns,correct_t,board);
         change_peashooter_states(plants,correct_t,board);
         move_zombies(zombies,correct_t,board,counter);
         shoot_pea(plants,zombies,peas,correct_t,counter);
         change_zombies_state(zombies,board);
+        change_suns_state(suns,correct_t,board);
         
         // for (int j = 0; j < 200; j++)
         //     win.draw_bmp(string("./image.bmp"), rand()%600, rand()%600, 30, 30);
+        
         win.draw_rect(270-j,300-i,60,60,WHITE);
         draw_plants(win,plants);
         draw_suns(win,suns,angle);
@@ -524,6 +617,10 @@ int main(void){
                     (sunflower->produce_time)->second=current_time->tm_sec;
                     (sunflower->produce_time)->minute=current_time->tm_min;
                     (sunflower->produce_time)->hour=current_time->tm_hour;
+                    sunflower->collision_time=new Time();
+                    (sunflower->collision_time)->second=current_time->tm_sec;
+                    (sunflower->collision_time)->minute=current_time->tm_min;
+                    (sunflower->collision_time)->hour=current_time->tm_hour;
                     cout<< (sunflower->produce_time)->second <<' '<<(sunflower->produce_time)->minute<<' '<<(sunflower->produce_time)->hour<<endl;
                     plants.push_back(sunflower);
                 }
@@ -555,6 +652,10 @@ int main(void){
                     (nut->produce_time)->second=current_time->tm_sec;
                     (nut->produce_time)->minute=current_time->tm_min;
                     (nut->produce_time)->hour=current_time->tm_hour;
+                    nut->collision_time=new Time();
+                    (nut->collision_time)->second=current_time->tm_sec;
+                    (nut->collision_time)->minute=current_time->tm_min;
+                    (nut->collision_time)->hour=current_time->tm_hour;
                     plants.push_back(nut);
                 }
                 continue;
@@ -585,6 +686,10 @@ int main(void){
                     (pea_shooter->produce_time)->second=current_time->tm_sec;
                     (pea_shooter->produce_time)->minute=current_time->tm_min;
                     (pea_shooter->produce_time)->hour=current_time->tm_hour;
+                    pea_shooter->collision_time=new Time();
+                    (pea_shooter->collision_time)->second=current_time->tm_sec;
+                    (pea_shooter->collision_time)->minute=current_time->tm_min;
+                    (pea_shooter->collision_time)->hour=current_time->tm_hour;
                     plants.push_back(pea_shooter);
                 }
                 continue;
@@ -607,6 +712,12 @@ int main(void){
             
         })
         counter++;
+        if(loss_the_game(board)){
+            win.draw_bg(string("./Frontyard.png"),0,0);
+            win.show_text("you lose the game!",510,300,BLACK);
+            win.update_screen();
+
+        }
         win.update_screen();
         DELAY(15);
     }
