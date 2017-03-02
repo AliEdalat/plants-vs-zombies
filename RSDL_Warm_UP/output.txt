@@ -1,0 +1,2746 @@
+2.level
+410 563
+main game
+2.level
+hey
+produced_zombie_number :0
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . . 
+
+50
+main game
+hey
+produced_zombie_number :0
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . . 
+
+50
+main game
+hey
+produced_zombie_number :0
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . . 
+
+50
+main game
+hey
+produced_zombie_number :0
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . . 
+
+50
+main game
+hey
+produced_zombie_number :0
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . . 
+
+50
+main game
+hey
+produced_zombie_number :0
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . . 
+
+50
+main game
+hey
+produced_zombie_number :0
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . . 
+
+50
+main game
+hey
+produced_zombie_number :0
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . . 
+
+50
+main game
+hey
+produced_zombie_number :0
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . . 
+
+50
+main game
+hey
+produced_zombie_number :0
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . . 
+
+50
+main game
+hey
+produced_zombie_number :0
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . . 
+
+50
+main game
+hey
+produced_zombie_number :0
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . . 
+
+50
+main game
+hey
+produced_zombie_number :0
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . . 
+
+50
+main game
+hey
+produced_zombie_number :0
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . . 
+
+50
+main game
+hey
+produced_zombie_number :0
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . . 
+
+50
+main game
+hey
+produced_zombie_number :0
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . . 
+
+50
+main game
+hey
+produced_zombie_number :0
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . . 
+
+50
+main game
+hey
+produced_zombie_number :0
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . . 
+
+50
+main game
+hey
+produced_zombie_number :0
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . . 
+
+50
+main game
+hey
+produced_zombie_number :0
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . . 
+
+50
+main game
+hey
+produced_zombie_number :0
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . . 
+
+50
+main game
+hey
+produced_zombie_number :0
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . . 
+
+50
+main game
+hey
+produced_zombie_number :0
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . . 
+
+50
+main game
+hey
+produced_zombie_number :0
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . . 
+
+50
+main game
+hey
+produced_zombie_number :0
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . . 
+
+50
+main game
+hey
+2
+produced_zombie_number :1
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . z 
+. . . . . . . . . 
+. . . . . . . . . 
+
+50
+main game
+produced_zombie_number :1
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . z 
+. . . . . . . . . 
+. . . . . . . . . 
+
+50
+main game
+produced_zombie_number :1
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . z 
+. . . . . . . . . 
+. . . . . . . . . 
+
+50
+main game
+produced_zombie_number :1
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . z 
+. . . . . . . . . 
+. . . . . . . . . 
+
+50
+main game
+produced_zombie_number :1
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . z 
+. . . . . . . . . 
+. . . . . . . . . 
+
+50
+main game
+produced_zombie_number :1
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . z 
+. . . . . . . . . 
+. . . . . . . . . 
+
+50
+main game
+produced_zombie_number :1
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . z 
+. . . . . . . . . 
+. . . . . . . . . 
+
+50
+main game
+produced_zombie_number :1
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . z 
+. . . . . . . . . 
+. . . . . . . . . 
+
+50
+main game
+produced_zombie_number :1
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . z 
+. . . . . . . . . 
+. . . . . . . . . 
+
+50
+main game
+produced_zombie_number :1
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . z 
+. . . . . . . . . 
+. . . . . . . . . 
+
+50
+main game
+produced_zombie_number :1
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . z 
+. . . . . . . . . 
+. . . . . . . . . 
+
+50
+main game
+produced_zombie_number :1
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . z 
+. . . . . . . . . 
+. . . . . . . . . 
+
+50
+main game
+produced_zombie_number :1
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . z 
+. . . . . . . . . 
+. . . . . . . . . 
+
+50
+main game
+produced_zombie_number :1
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . z 
+. . . . . . . . . 
+. . . . . . . . . 
+
+50
+main game
+produced_zombie_number :1
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . z 
+. . . . . . . . . 
+. . . . . . . . . 
+
+50
+main game
+produced_zombie_number :1
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . z 
+. . . . . . . . . 
+. . . . . . . . . 
+
+50
+main game
+produced_zombie_number :1
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . z 
+. . . . . . . . . 
+. . . . . . . . . 
+
+50
+main game
+produced_zombie_number :1
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . z 
+. . . . . . . . . 
+. . . . . . . . . 
+
+50
+main game
+produced_zombie_number :1
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . z 
+. . . . . . . . . 
+. . . . . . . . . 
+
+50
+main game
+produced_zombie_number :1
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . z 
+. . . . . . . . . 
+. . . . . . . . . 
+
+50
+main game
+produced_zombie_number :2
+. . . . . . . . z 
+. . . . . . . . . 
+. . . . . . . . z 
+. . . . . . . . . 
+. . . . . . . . . 
+
+50
+main game
+produced_zombie_number :2
+. . . . . . . . z 
+. . . . . . . . . 
+. . . . . . . . z 
+. . . . . . . . . 
+. . . . . . . . . 
+
+50
+main game
+produced_zombie_number :2
+. . . . . . . . z 
+. . . . . . . . . 
+. . . . . . . . z 
+. . . . . . . . . 
+. . . . . . . . . 
+
+50
+main game
+produced_zombie_number :2
+. . . . . . . . z 
+. . . . . . . . . 
+. . . . . . . . z 
+. . . . . . . . . 
+. . . . . . . . . 
+
+50
+main game
+produced_zombie_number :2
+. . . . . . . . z 
+. . . . . . . . . 
+. . . . . . . . z 
+. . . . . . . . . 
+. . . . . . . . . 
+
+50
+main game
+produced_zombie_number :2
+. . . . . . . . z 
+. . . . . . . . . 
+. . . . . . . . z 
+. . . . . . . . . 
+. . . . . . . . . 
+
+50
+main game
+produced_zombie_number :2
+. . . . . . . . z 
+. . . . . . . . . 
+. . . . . . . . z 
+. . . . . . . . . 
+. . . . . . . . . 
+
+50
+main game
+produced_zombie_number :2
+. . . . . . . . z 
+. . . . . . . . . 
+. . . . . . . . z 
+. . . . . . . . . 
+. . . . . . . . . 
+
+50
+main game
+produced_zombie_number :2
+. . . . . . . . z 
+. . . . . . . . . 
+. . . . . . . . z 
+. . . . . . . . . 
+. . . . . . . . . 
+
+50
+main game
+produced_zombie_number :2
+. . . . . . . . z 
+. . . . . . . . . 
+. . . . . . . . z 
+. . . . . . . . . 
+. . . . . . . . . 
+
+50
+main game
+produced_zombie_number :2
+. . . . . . . . z 
+. . . . . . . . . 
+. . . . . . . . z 
+. . . . . . . . . 
+. . . . . . . . . 
+
+50
+main game
+produced_zombie_number :2
+2 8
+0 8
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . . . 
+
+50
+main game
+produced_zombie_number :2
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . . . 
+
+50
+main game
+produced_zombie_number :2
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . . . 
+
+50
+main game
+produced_zombie_number :2
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . . . 
+
+50
+main game
+produced_zombie_number :2
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . . . 
+
+50
+main game
+produced_zombie_number :2
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . . . 
+
+50
+main game
+produced_zombie_number :2
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . . . 
+
+50
+main game
+produced_zombie_number :2
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . . . 
+
+50
+main game
+produced_zombie_number :2
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . . . 
+
+50
+main game
+4
+produced_zombie_number :3
+create zombies time :1
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . . z 
+
+50
+main game
+create zombies time :1
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . . z 
+
+50
+main game
+create zombies time :1
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . . z 
+
+50
+main game
+create zombies time :1
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . . z 
+
+50
+main game
+create zombies time :1
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . . z 
+
+50
+main game
+create zombies time :1
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . . z 
+
+50
+main game
+create zombies time :1
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . . z 
+
+50
+main game
+create zombies time :1
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . . z 
+
+50
+main game
+create zombies time :1
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . . z 
+
+50
+main game
+create zombies time :1
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . . z 
+
+50
+main game
+create zombies time :1
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . . z 
+
+50
+main game
+create zombies time :1
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . . z 
+
+50
+main game
+create zombies time :1
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . . z 
+
+50
+main game
+create zombies time :1
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . . z 
+
+50
+main game
+create zombies time :1
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . . z 
+
+50
+main game
+create zombies time :1
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . . z 
+
+50
+main game
+create zombies time :1
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . . z 
+
+50
+main game
+create zombies time :1
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . . z 
+
+50
+main game
+create zombies time :1
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . . z 
+
+50
+main game
+create zombies time :1
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . . z 
+
+50
+main game
+create zombies time :1
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . . z 
+
+50
+main game
+create zombies time :1
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . . z 
+
+50
+main game
+create zombies time :1
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . . z 
+
+50
+main game
+create zombies time :1
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . . z 
+
+50
+main game
+create zombies time :1
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . . z 
+
+50
+main game
+create zombies time :1
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . . z 
+
+50
+main game
+create zombies time :1
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . . z 
+
+50
+main game
+create zombies time :1
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . . z 
+
+50
+main game
+create zombies time :1
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . . z 
+
+50
+main game
+create zombies time :1
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . . z 
+
+50
+main game
+create zombies time :1
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . . z 
+
+50
+main game
+create zombies time :1
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . . z 
+
+50
+main game
+create zombies time :1
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . . z 
+
+50
+main game
+create zombies time :1
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . . z 
+
+50
+main game
+create zombies time :1
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . . z 
+
+50
+main game
+create zombies time :1
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . . z 
+
+50
+main game
+create zombies time :1
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . . z 
+
+50
+main game
+create zombies time :1
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . . z 
+
+50
+main game
+create zombies time :1
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . . z 
+
+50
+main game
+create zombies time :1
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . . z 
+
+50
+main game
+create zombies time :1
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . . z 
+
+50
+main game
+create zombies time :1
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . . z 
+
+50
+main game
+create zombies time :1
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . . z 
+
+50
+main game
+create zombies time :1
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . . z 
+
+50
+main game
+create zombies time :1
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . . z 
+
+50
+main game
+create zombies time :1
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . . z 
+
+50
+main game
+create zombies time :2
+2 7
+0 7
+4 8
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :2
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :2
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :2
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :2
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :2
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :2
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :2
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :2
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :2
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :2
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :2
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :2
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :2
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :2
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :2
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :2
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :2
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :2
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :2
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :2
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :2
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :2
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :2
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :2
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :2
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :2
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :2
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :2
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :2
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :2
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :2
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :2
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :2
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :2
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :2
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :2
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :2
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :2
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :2
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :2
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :2
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :2
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :2
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :2
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :2
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :2
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :2
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :2
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :2
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :2
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :2
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :2
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :2
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :3
+2 7
+0 7
+4 7
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :3
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :3
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :3
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :3
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :3
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :3
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :3
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :3
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :3
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :3
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :3
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :3
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :3
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :3
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :3
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :3
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :3
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :3
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :3
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :3
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :3
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :3
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :3
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :3
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :3
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :3
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :3
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :3
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :3
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :3
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :3
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :3
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :3
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :3
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :3
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :3
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :3
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :3
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :3
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :3
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :3
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :3
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :3
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :3
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :3
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :3
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :3
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :3
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :3
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :3
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :3
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :3
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :3
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :3
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :4
+2 7
+0 7
+4 7
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :4
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :4
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :4
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :4
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :4
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :4
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :4
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :4
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :4
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :4
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :4
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :4
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :4
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :4
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :4
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :4
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :4
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :4
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :4
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :4
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :4
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :4
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :4
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :4
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :4
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :4
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :4
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :4
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :4
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :4
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :4
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :4
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :4
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :4
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :4
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :4
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :4
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :4
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :4
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :4
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :4
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :4
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :4
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :4
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :4
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :4
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :4
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :4
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :4
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :4
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :4
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :4
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :4
+. . . . . . . z . 
+. . . . . . . . . 
+. . . . . . . z s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+wave :1 produced_zombie_number :3time :5
+2 7
+0 7
+4 7
+. . . . . . z . . 
+. . . . . . . . . 
+. . . . . . z . s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :0
+. . . . . . z . . 
+. . . . . . . . . 
+. . . . . . z . s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :0
+. . . . . . z . . 
+. . . . . . . . . 
+. . . . . . z . s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :0
+. . . . . . z . . 
+. . . . . . . . . 
+. . . . . . z . s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :0
+. . . . . . z . . 
+. . . . . . . . . 
+. . . . . . z . s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :0
+. . . . . . z . . 
+. . . . . . . . . 
+. . . . . . z . s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :0
+. . . . . . z . . 
+. . . . . . . . . 
+. . . . . . z . s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :0
+. . . . . . z . . 
+. . . . . . . . . 
+. . . . . . z . s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :0
+. . . . . . z . . 
+. . . . . . . . . 
+. . . . . . z . s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :0
+. . . . . . z . . 
+. . . . . . . . . 
+. . . . . . z . s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :0
+. . . . . . z . . 
+. . . . . . . . . 
+. . . . . . z . s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :0
+. . . . . . z . . 
+. . . . . . . . . 
+. . . . . . z . s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :0
+. . . . . . z . . 
+. . . . . . . . . 
+. . . . . . z . s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :0
+. . . . . . z . . 
+. . . . . . . . . 
+. . . . . . z . s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :0
+. . . . . . z . . 
+. . . . . . . . . 
+. . . . . . z . s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :0
+. . . . . . z . . 
+. . . . . . . . . 
+. . . . . . z . s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :0
+. . . . . . z . . 
+. . . . . . . . . 
+. . . . . . z . s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :0
+. . . . . . z . . 
+. . . . . . . . . 
+. . . . . . z . s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :0
+. . . . . . z . . 
+. . . . . . . . . 
+. . . . . . z . s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :0
+. . . . . . z . . 
+. . . . . . . . . 
+. . . . . . z . s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :0
+. . . . . . z . . 
+. . . . . . . . . 
+. . . . . . z . s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :0
+. . . . . . z . . 
+. . . . . . . . . 
+. . . . . . z . s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :0
+. . . . . . z . . 
+. . . . . . . . . 
+. . . . . . z . s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :0
+. . . . . . z . . 
+. . . . . . . . . 
+. . . . . . z . s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :0
+. . . . . . z . . 
+. . . . . . . . . 
+. . . . . . z . s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
+main game
+create zombies time :0
+. . . . . . z . . 
+. . . . . . . . . 
+. . . . . . z . s 
+. . . . . . . . . 
+. . . . . . . z . 
+
+50
